@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Spider Browser",
+    "slug": "spider-browser",
+    "scheme": "spider",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "experiments": {
+      "typedRoutes": true
+    },
+    "android": {
+      "package": "com.spider.browser",
+      "adaptiveIcon": {
+        "backgroundColor": "#111827"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.spider.browser"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
