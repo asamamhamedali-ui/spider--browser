@@ -91,3 +91,8 @@
 - [ ] Redirect destination policy validated
 - [ ] App process restart reconciles task database and partial files
 - [ ] Memory use remains bounded for large files; benchmark documented
+
+## GitHub Actions APK workflow
+- [ ] Push and manual `workflow_dispatch` builds complete successfully.
+- [ ] All generated APK files are uploaded as an Actions artifact.
+- [ ] The artifact can be downloaded from a completed Actions run.
